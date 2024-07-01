@@ -8,12 +8,12 @@ export type CreateUserParams = {
     photo: string
   }
   
-  export type UpdateUserParams = {
+  /*export type UpdateUserParams = {
     firstName: string
     lastName: string
     username: string
     photo: string
-  }
+  }*/
   
   // ====== EVENT PARAMS
   export type CreateEventParams = {
